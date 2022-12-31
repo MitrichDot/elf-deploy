@@ -25,7 +25,7 @@
     "cspell": "^5.2.3",
     "eslint": "^7.20.0",
     "eslint-config-prettier": "^8.1.0",
-    "ethereum-waffle": "^3.2.2",
+    "ethereum-waffle": "^4.0.7",
     "ethers": "^5.0.29",
     "hardhat": "^2.1.2",
     "hardhat-gas-reporter": "^1.0.4",
